@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2._1
 {
-    class Dice
+    internal class Dice
     {
         public int amount;
         public int sides;
